@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+.top-nav {
+  height: 48px;
+  display: flex;
+  align-items: center;
+  padding-left: 6px;
+}
+
+.top-nav button {
+  height: 26px;
+}
